@@ -1,13 +1,22 @@
+# Лог-файлы
+*.log
+
+# Объектные и исполняемые файлы
 *.o
 *.a
+*.so
+*.exe
+*.out
 
+# Файлы IDE
+.vscode/
+.idea/
 
-sed_simplified
+# Файлы операционной системы
+Thumbs.db
+.DS_Store
 
-
-*.log
-*.tmp
-
-
-build/
+# Частные ключи и пароли
+.env
+.ssh/id_rsa
 
