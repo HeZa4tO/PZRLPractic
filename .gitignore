@@ -1,0 +1,13 @@
+*.o
+*.a
+
+
+sed_simplified
+
+
+*.log
+*.tmp
+
+
+build/
+
